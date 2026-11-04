@@ -1,6 +1,7 @@
 # Grass Wonder Fan Website 🍀
 
 Website pengenalan karakter **Grass Wonder** dari *Uma Musume: Pretty Derby*. 
+My MBG btw
 
 ## Fitur Utama
 - **Karusel Kostum Interaktif**: Menampilkan 4 variasi kostum Grass Wonder.
