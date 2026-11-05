@@ -12,3 +12,5 @@ My MBG btw
 - HTML5
 - CSS3
 - JavaScript
+
+<img width="320" height="563" alt="Grass_Wonder_(Race)-1" src="https://github.com/user-attachments/assets/54a9e5a7-ac60-4aae-8fe9-aeea890cdde5" />
